@@ -1,510 +1,510 @@
 [
   {
-    "id": "options-trading-&-wheel-strategy-hub-telegram-1",
-    "title": "0Dte Spy Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "0Dte Spy",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on 0dte spy discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/options-trading-&-wheel-strategy-hub-telegram-1",
+    "id": "reddit-options",
+    "title": "r/options Options Trading Forum",
+    "platform": "Reddit",
+    "category": "Options Strategy",
+    "memberCount": "1,200,000+ members",
+    "description": "The premier Reddit community for options strategies, Greeks management, spreads, and implied volatility analysis.",
+    "joinUrl": "https://www.reddit.com/r/options/",
     "tags": [
-      "0dte-spy",
-      "telegram",
-      "networking",
-      "verified"
+      "options",
+      "greeks",
+      "volatility",
+      "spreads"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-discord-2",
-    "title": "Covered Calls Global Discord Hub",
-    "platform": "Discord",
-    "category": "Covered Calls",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on covered calls discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/options-trading-&-wheel-strategy-hub-discord-2",
+    "id": "reddit-thetagang",
+    "title": "r/thetagang Premium Sellers",
+    "platform": "Reddit",
+    "category": "Wheel Strategy",
+    "memberCount": "280,000+ members",
+    "description": "Dedicated to positive theta decay strategies including covered calls, cash-secured puts, iron condors, and the wheel strategy.",
+    "joinUrl": "https://www.reddit.com/r/thetagang/",
     "tags": [
+      "thetagang",
+      "wheel-strategy",
       "covered-calls",
-      "discord",
-      "networking",
-      "verified"
+      "theta"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-whatsapp-3",
-    "title": "Iron Condors Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Iron Condors",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on iron condors discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/options-trading-&-wheel-strategy-hub-whatsapp-3",
+    "id": "reddit-wallstreetbets",
+    "title": "r/wallstreetbets High Volatility",
+    "platform": "Reddit",
+    "category": "0DTE & Momentum",
+    "memberCount": "17,500,000+ members",
+    "description": "High-volatility derivative trades, 0DTE index options, institutional short squeezes, and market sentiment.",
+    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
     "tags": [
-      "iron-condors",
-      "whatsapp",
-      "networking",
-      "verified"
+      "wsb",
+      "0dte",
+      "options",
+      "volatility"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-reddit-4",
-    "title": "Theta Gang Global Reddit Hub",
+    "id": "reddit-stocks",
+    "title": "r/stocks Equity Research",
     "platform": "Reddit",
-    "category": "Theta Gang",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on theta gang discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/options-trading-&-wheel-strategy-hub-reddit-4",
+    "category": "Stock Market",
+    "memberCount": "6,800,000+ members",
+    "description": "Discussions on equity valuation, corporate earnings calls, sector rotations, and macroeconomic policy.",
+    "joinUrl": "https://www.reddit.com/r/stocks/",
     "tags": [
-      "theta-gang",
-      "reddit",
-      "networking",
-      "verified"
+      "stocks",
+      "equities",
+      "earnings",
+      "valuation"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-telegram-5",
-    "title": "0Dte Spy Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "0Dte Spy",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on 0dte spy discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/options-trading-&-wheel-strategy-hub-telegram-5",
-    "tags": [
-      "0dte-spy",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-discord-6",
-    "title": "Covered Calls Global Discord Hub",
-    "platform": "Discord",
-    "category": "Covered Calls",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on covered calls discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/options-trading-&-wheel-strategy-hub-discord-6",
-    "tags": [
-      "covered-calls",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-whatsapp-7",
-    "title": "Iron Condors Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Iron Condors",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on iron condors discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/options-trading-&-wheel-strategy-hub-whatsapp-7",
-    "tags": [
-      "iron-condors",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-reddit-8",
-    "title": "Theta Gang Global Reddit Hub",
+    "id": "reddit-investing",
+    "title": "r/investing Long-Term Wealth",
     "platform": "Reddit",
-    "category": "Theta Gang",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on theta gang discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/options-trading-&-wheel-strategy-hub-reddit-8",
+    "category": "Wealth Building",
+    "memberCount": "2,600,000+ members",
+    "description": "Fundamental investing strategies, portfolio diversification, asset allocation, and retirement planning.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
     "tags": [
-      "theta-gang",
-      "reddit",
-      "networking",
-      "verified"
+      "investing",
+      "wealth",
+      "portfolio",
+      "retirement"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-telegram-9",
-    "title": "0Dte Spy Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "0Dte Spy",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on 0dte spy discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/options-trading-&-wheel-strategy-hub-telegram-9",
-    "tags": [
-      "0dte-spy",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-discord-10",
-    "title": "Covered Calls Global Discord Hub",
-    "platform": "Discord",
-    "category": "Covered Calls",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on covered calls discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/options-trading-&-wheel-strategy-hub-discord-10",
-    "tags": [
-      "covered-calls",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-whatsapp-11",
-    "title": "Iron Condors Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Iron Condors",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on iron condors discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/options-trading-&-wheel-strategy-hub-whatsapp-11",
-    "tags": [
-      "iron-condors",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-reddit-12",
-    "title": "Theta Gang Global Reddit Hub",
+    "id": "reddit-optionscalping",
+    "title": "r/optionscalping Intraday Hub",
     "platform": "Reddit",
-    "category": "Theta Gang",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on theta gang discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/options-trading-&-wheel-strategy-hub-reddit-12",
+    "category": "Options Scalping",
+    "memberCount": "42,000+ members",
+    "description": "Intraday options trading, Order flow analysis, VWAP momentum, and rapid execution strategies.",
+    "joinUrl": "https://www.reddit.com/r/optionscalping/",
     "tags": [
-      "theta-gang",
-      "reddit",
-      "networking",
-      "verified"
+      "optionscalping",
+      "scalping",
+      "vwap",
+      "daytrading"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-telegram-13",
-    "title": "0Dte Spy Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "0Dte Spy",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on 0dte spy discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/options-trading-&-wheel-strategy-hub-telegram-13",
-    "tags": [
-      "0dte-spy",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-discord-14",
-    "title": "Covered Calls Global Discord Hub",
-    "platform": "Discord",
-    "category": "Covered Calls",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on covered calls discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/options-trading-&-wheel-strategy-hub-discord-14",
-    "tags": [
-      "covered-calls",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-whatsapp-15",
-    "title": "Iron Condors Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Iron Condors",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on iron condors discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/options-trading-&-wheel-strategy-hub-whatsapp-15",
-    "tags": [
-      "iron-condors",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-reddit-16",
-    "title": "Theta Gang Global Reddit Hub",
+    "id": "reddit-daytrading",
+    "title": "r/Daytrading Risk Management",
     "platform": "Reddit",
-    "category": "Theta Gang",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on theta gang discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/options-trading-&-wheel-strategy-hub-reddit-16",
+    "category": "Day Trading",
+    "memberCount": "2,800,000+ members",
+    "description": "Multi-market intraday trading community covering risk management, level 2 tape reading, and technical setups.",
+    "joinUrl": "https://www.reddit.com/r/Daytrading/",
     "tags": [
-      "theta-gang",
-      "reddit",
-      "networking",
-      "verified"
+      "daytrading",
+      "risk-management",
+      "level2",
+      "technical-analysis"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-telegram-17",
-    "title": "0Dte Spy Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "0Dte Spy",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on 0dte spy discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/options-trading-&-wheel-strategy-hub-telegram-17",
-    "tags": [
-      "0dte-spy",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-discord-18",
-    "title": "Covered Calls Global Discord Hub",
-    "platform": "Discord",
-    "category": "Covered Calls",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on covered calls discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/options-trading-&-wheel-strategy-hub-discord-18",
-    "tags": [
-      "covered-calls",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-whatsapp-19",
-    "title": "Iron Condors Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Iron Condors",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on iron condors discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/options-trading-&-wheel-strategy-hub-whatsapp-19",
-    "tags": [
-      "iron-condors",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-reddit-20",
-    "title": "Theta Gang Global Reddit Hub",
+    "id": "reddit-algotrading",
+    "title": "r/algotrading Systematic Models",
     "platform": "Reddit",
-    "category": "Theta Gang",
-    "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on theta gang discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/options-trading-&-wheel-strategy-hub-reddit-20",
+    "category": "Quantitative Trading",
+    "memberCount": "1,900,000+ members",
+    "description": "Systematic trading algorithms, backtesting frameworks, Interactive Brokers API integration, and statistical arbitrage.",
+    "joinUrl": "https://www.reddit.com/r/algotrading/",
     "tags": [
-      "theta-gang",
-      "reddit",
-      "networking",
-      "verified"
+      "algotrading",
+      "quant",
+      "python",
+      "backtesting"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-telegram-21",
-    "title": "0Dte Spy Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "0Dte Spy",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on 0dte spy discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/options-trading-&-wheel-strategy-hub-telegram-21",
-    "tags": [
-      "0dte-spy",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-discord-22",
-    "title": "Covered Calls Global Discord Hub",
-    "platform": "Discord",
-    "category": "Covered Calls",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on covered calls discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/options-trading-&-wheel-strategy-hub-discord-22",
-    "tags": [
-      "covered-calls",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-whatsapp-23",
-    "title": "Iron Condors Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Iron Condors",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on iron condors discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/options-trading-&-wheel-strategy-hub-whatsapp-23",
-    "tags": [
-      "iron-condors",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-reddit-24",
-    "title": "Theta Gang Global Reddit Hub",
+    "id": "reddit-tradingview",
+    "title": "r/TradingView Pine Script Hub",
     "platform": "Reddit",
-    "category": "Theta Gang",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on theta gang discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/options-trading-&-wheel-strategy-hub-reddit-24",
+    "category": "Charting Tools",
+    "memberCount": "290,000+ members",
+    "description": "Pine script indicators, charting templates, custom screener strategies, and market replay setups.",
+    "joinUrl": "https://www.reddit.com/r/TradingView/",
     "tags": [
-      "theta-gang",
-      "reddit",
-      "networking",
-      "verified"
+      "tradingview",
+      "pinescript",
+      "charting",
+      "indicators"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-telegram-25",
-    "title": "0Dte Spy Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "0Dte Spy",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on 0dte spy discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/options-trading-&-wheel-strategy-hub-telegram-25",
-    "tags": [
-      "0dte-spy",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-discord-26",
-    "title": "Covered Calls Global Discord Hub",
-    "platform": "Discord",
-    "category": "Covered Calls",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on covered calls discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/options-trading-&-wheel-strategy-hub-discord-26",
-    "tags": [
-      "covered-calls",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-whatsapp-27",
-    "title": "Iron Condors Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Iron Condors",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on iron condors discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/options-trading-&-wheel-strategy-hub-whatsapp-27",
-    "tags": [
-      "iron-condors",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "options-trading-&-wheel-strategy-hub-reddit-28",
-    "title": "Theta Gang Global Reddit Hub",
+    "id": "reddit-futurestrading",
+    "title": "r/FuturesTrading Micro Contracts",
     "platform": "Reddit",
-    "category": "Theta Gang",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on theta gang discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/options-trading-&-wheel-strategy-hub-reddit-28",
+    "category": "Futures Market",
+    "memberCount": "110,000+ members",
+    "description": "Index futures trading (/ES, /NQ, /RTY), overnight margin requirements, DOM order entry, and market profile.",
+    "joinUrl": "https://www.reddit.com/r/FuturesTrading/",
     "tags": [
-      "theta-gang",
-      "reddit",
-      "networking",
-      "verified"
+      "futures",
+      "es",
+      "nq",
+      "market-profile"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-telegram-29",
-    "title": "0Dte Spy Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "0Dte Spy",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on 0dte spy discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/options-trading-&-wheel-strategy-hub-telegram-29",
+    "id": "reddit-dividends",
+    "title": "r/dividends Passive Income",
+    "platform": "Reddit",
+    "category": "Dividend Growth",
+    "memberCount": "620,000+ members",
+    "description": "Compounding dividend income, high-yield ETFs (SCHD, JEPI, JEPQ), and dividend reinvestment plans (DRIP).",
+    "joinUrl": "https://www.reddit.com/r/dividends/",
     "tags": [
-      "0dte-spy",
-      "telegram",
-      "networking",
-      "verified"
+      "dividends",
+      "passive-income",
+      "schd",
+      "drip"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "options-trading-&-wheel-strategy-hub-discord-30",
-    "title": "Covered Calls Global Discord Hub",
+    "id": "reddit-fire",
+    "title": "r/financialindependence FIRE Hub",
+    "platform": "Reddit",
+    "category": "Wealth Building",
+    "memberCount": "2,350,000+ members",
+    "description": "Achieving early retirement through high savings rates, index investing, and strategic cash flow generation.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "tags": [
+      "fire",
+      "retirement",
+      "savings",
+      "wealth"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-valueinvesting",
+    "title": "r/ValueInvesting Margin of Safety",
+    "platform": "Reddit",
+    "category": "Fundamental Analysis",
+    "memberCount": "210,000+ members",
+    "description": "Margin of safety, discounted cash flow (DCF) modeling, balance sheet forensics, and competitive moats.",
+    "joinUrl": "https://www.reddit.com/r/ValueInvesting/",
+    "tags": [
+      "value-investing",
+      "buffett",
+      "dcf",
+      "valuation"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-personalfinance",
+    "title": "r/personalfinance Wealth Guard",
+    "platform": "Reddit",
+    "category": "Personal Finance",
+    "memberCount": "19,800,000+ members",
+    "description": "Budgeting fundamentals, emergency funds, debt elimination, tax optimization, and wealth preservation.",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
+    "tags": [
+      "personalfinance",
+      "budgeting",
+      "wealth",
+      "taxes"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-bogleheads",
+    "title": "r/Bogleheads Passive Indexing",
+    "platform": "Reddit",
+    "category": "Passive Indexing",
+    "memberCount": "180,000+ members",
+    "description": "Low-cost broad-market index fund investing inspired by Jack Bogle, three-fund portfolios, and market tracking.",
+    "joinUrl": "https://www.reddit.com/r/Bogleheads/",
+    "tags": [
+      "bogleheads",
+      "indexing",
+      "vanguard",
+      "passive"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-stockmarket",
+    "title": "r/StockMarket Live Desk",
+    "platform": "Reddit",
+    "category": "Stock Market",
+    "memberCount": "2,900,000+ members",
+    "description": "Real-time stock ticker discussions, earnings calendar releases, Federal Reserve rate decisions, and sector movers.",
+    "joinUrl": "https://www.reddit.com/r/StockMarket/",
+    "tags": [
+      "stockmarket",
+      "fed",
+      "tickers",
+      "earnings"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-swingtrading",
+    "title": "r/swingtrading Momentum Setups",
+    "platform": "Reddit",
+    "category": "Swing Trading",
+    "memberCount": "160,000+ members",
+    "description": "Multi-day to multi-week momentum trading, breakout patterns, moving average crossovers, and trailing stops.",
+    "joinUrl": "https://www.reddit.com/r/swingtrading/",
+    "tags": [
+      "swingtrading",
+      "momentum",
+      "breakouts",
+      "setups"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-technicalanalysis",
+    "title": "r/technicalanalysis Chart Patterns",
+    "platform": "Reddit",
+    "category": "Technical Analysis",
+    "memberCount": "195,000+ members",
+    "description": "Candlestick patterns, Fibonacci retracements, Elliot wave theory, RSI divergences, and volume analysis.",
+    "joinUrl": "https://www.reddit.com/r/technicalanalysis/",
+    "tags": [
+      "technical-analysis",
+      "fibonacci",
+      "rsi",
+      "candlesticks"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-spacs",
+    "title": "r/SPACs Warrants & Arbitrage",
+    "platform": "Reddit",
+    "category": "Arbitrage",
+    "memberCount": "195,000+ members",
+    "description": "Special Purpose Acquisition Companies, NAV floor arbitrage, warrant redemption mechanics, and de-SPAC analysis.",
+    "joinUrl": "https://www.reddit.com/r/SPACs/",
+    "tags": [
+      "spacs",
+      "arbitrage",
+      "warrants",
+      "equities"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "reddit-pennystocks",
+    "title": "r/pennystocks High Beta Equities",
+    "platform": "Reddit",
+    "category": "Small Cap",
+    "memberCount": "1,950,000+ members",
+    "description": "High-beta small-cap equities, biotech catalyst calendars, FDA phase trials, and breakout momentum.",
+    "joinUrl": "https://www.reddit.com/r/pennystocks/",
+    "tags": [
+      "pennystocks",
+      "smallcap",
+      "catalysts",
+      "biotech"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "discord-options",
+    "title": "Options Trading Community Discord",
     "platform": "Discord",
-    "category": "Covered Calls",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on covered calls discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/options-trading-&-wheel-strategy-hub-discord-30",
+    "category": "Options Strategy",
+    "memberCount": "95,000+ members",
+    "description": "Active live voice and chat community for options traders, Greeks analysis, and earnings play breakdowns.",
+    "joinUrl": "https://discord.gg/options",
     "tags": [
-      "covered-calls",
+      "options",
       "discord",
-      "networking",
-      "verified"
+      "greeks",
+      "voice-chat"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "discord-daytrading",
+    "title": "Daytrading Mastermind Discord",
+    "platform": "Discord",
+    "category": "Day Trading",
+    "memberCount": "145,000+ members",
+    "description": "Live market open commentary, scalping watchlists, order flow breakdowns, and trade reviews.",
+    "joinUrl": "https://discord.gg/daytrading",
+    "tags": [
+      "daytrading",
+      "discord",
+      "scalping",
+      "orderflow"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "discord-thetagang",
+    "title": "Theta Gang Official Discord",
+    "platform": "Discord",
+    "category": "Wheel Strategy",
+    "memberCount": "65,000+ members",
+    "description": "Premium-selling strategies, covered call management, wheel strategy tracking, and high IV alerts.",
+    "joinUrl": "https://discord.gg/thetagang",
+    "tags": [
+      "thetagang",
+      "discord",
+      "wheel",
+      "premium"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "discord-stocks",
+    "title": "Stock Market & Options Discord",
+    "platform": "Discord",
+    "category": "Stock Market",
+    "memberCount": "185,000+ members",
+    "description": "Real-time stock alerts, option sweeps tracking, dark pool prints, and financial education.",
+    "joinUrl": "https://discord.gg/stocks",
+    "tags": [
+      "stocks",
+      "discord",
+      "darkpools",
+      "sweeps"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "discord-futures",
+    "title": "Futures Trading Elite Discord",
+    "platform": "Discord",
+    "category": "Futures Market",
+    "memberCount": "55,000+ members",
+    "description": "Dedicated server for CME/E-mini futures traders, Bookmap volume profiles, and liquidity sweeps.",
+    "joinUrl": "https://discord.gg/futures",
+    "tags": [
+      "futures",
+      "discord",
+      "bookmap",
+      "cme"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "discord-wsb",
+    "title": "WallStreetBets Official Discord",
+    "platform": "Discord",
+    "category": "0DTE & Momentum",
+    "memberCount": "520,000+ members",
+    "description": "The official WSB community server for real-time market chatter, earnings threads, and options momentum.",
+    "joinUrl": "https://discord.gg/wallstreetbets",
+    "tags": [
+      "wsb",
+      "discord",
+      "momentum",
+      "chat"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "telegram-options",
+    "title": "Options Trading Signals Telegram",
+    "platform": "Telegram",
+    "category": "Options Strategy",
+    "memberCount": "75,000+ members",
+    "description": "Educational options trade setups, implied volatility rank scans, and weekly credit spread ideas.",
+    "joinUrl": "https://t.me/optionstrading",
+    "tags": [
+      "options",
+      "telegram",
+      "setups",
+      "volatility"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "telegram-wsb",
+    "title": "WallStreetBets News Telegram",
+    "platform": "Telegram",
+    "category": "Market Intelligence",
+    "memberCount": "95,000+ members",
+    "description": "Curated market highlights, trending ticker mentions, and earnings sentiment summaries.",
+    "joinUrl": "https://t.me/wallstreetbets",
+    "tags": [
+      "wsb",
+      "telegram",
+      "trending",
+      "feed"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "telegram-bloomberg",
+    "title": "Bloomberg Terminal Broadcast",
+    "platform": "Telegram",
+    "category": "Market Intelligence",
+    "memberCount": "240,000+ members",
+    "description": "Instant macroeconomic releases, central bank rate decisions, commodity prices, and currency movements.",
+    "joinUrl": "https://t.me/bloomberg",
+    "tags": [
+      "bloomberg",
+      "telegram",
+      "macro",
+      "rates"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "telegram-tradingview",
+    "title": "TradingView Global Feed",
+    "platform": "Telegram",
+    "category": "Charting Tools",
+    "memberCount": "110,000+ members",
+    "description": "Chart of the day breakdowns, technical indicator updates, and top community ideas.",
+    "joinUrl": "https://t.me/tradingview",
+    "tags": [
+      "tradingview",
+      "telegram",
+      "charts",
+      "ideas"
     ],
     "verified": true,
     "featured": false
