@@ -1,5 +1,24 @@
 [
   {
+    "id": "options-trading-wealth-hub-reddit-20260913-1",
+    "title": "r/realestateinvesting Wealth Hub",
+    "platform": "Reddit",
+    "category": "Real Estate",
+    "memberCount": "540,000+ members",
+    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
+    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "tags": [
+      "real-estate",
+      "syndications",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "id": "reddit-options",
     "title": "r/options Options Trading Forum",
     "platform": "Reddit",
@@ -14,7 +33,8 @@
       "spreads"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-thetagang",
@@ -31,7 +51,8 @@
       "theta"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-wallstreetbets",
@@ -48,7 +69,8 @@
       "volatility"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-stocks",
@@ -65,7 +87,8 @@
       "valuation"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-investing",
@@ -82,7 +105,8 @@
       "retirement"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-optionscalping",
@@ -99,7 +123,8 @@
       "daytrading"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-daytrading",
@@ -116,7 +141,8 @@
       "technical-analysis"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-algotrading",
@@ -133,7 +159,8 @@
       "backtesting"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-tradingview",
@@ -150,7 +177,8 @@
       "indicators"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-futurestrading",
@@ -167,7 +195,8 @@
       "market-profile"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-dividends",
@@ -184,7 +213,8 @@
       "drip"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-fire",
@@ -201,7 +231,8 @@
       "wealth"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-valueinvesting",
@@ -218,7 +249,8 @@
       "valuation"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-personalfinance",
@@ -235,7 +267,8 @@
       "taxes"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-bogleheads",
@@ -252,7 +285,8 @@
       "passive"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-stockmarket",
@@ -269,7 +303,8 @@
       "earnings"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-swingtrading",
@@ -286,7 +321,8 @@
       "setups"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-technicalanalysis",
@@ -303,7 +339,8 @@
       "candlesticks"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-spacs",
@@ -320,7 +357,8 @@
       "equities"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "reddit-pennystocks",
@@ -337,7 +375,8 @@
       "biotech"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "discord-options",
@@ -354,7 +393,8 @@
       "voice-chat"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "discord-daytrading",
@@ -371,7 +411,8 @@
       "orderflow"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "discord-thetagang",
@@ -388,7 +429,8 @@
       "premium"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "discord-stocks",
@@ -405,7 +447,8 @@
       "sweeps"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "discord-futures",
@@ -422,7 +465,8 @@
       "cme"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "discord-wsb",
@@ -439,7 +483,8 @@
       "chat"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "telegram-options",
@@ -456,7 +501,8 @@
       "volatility"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "telegram-wsb",
@@ -473,7 +519,8 @@
       "feed"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "telegram-bloomberg",
@@ -490,7 +537,8 @@
       "rates"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "telegram-tradingview",
@@ -507,6 +555,7 @@
       "ideas"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   }
 ]
