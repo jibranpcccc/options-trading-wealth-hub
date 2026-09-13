@@ -1,5 +1,24 @@
 [
   {
+    "id": "options-trading-wealth-hub-forum-20260913-1",
+    "title": "Bogleheads Forum Community",
+    "platform": "Forum",
+    "category": "Passive Investing",
+    "memberCount": "250,000+ members",
+    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
+    "joinUrl": "https://bogleheads.org/forum/",
+    "tags": [
+      "bogleheads",
+      "indexing",
+      "forum",
+      "passive-investing"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "id": "options-trading-wealth-hub-reddit-20260913-1",
     "title": "r/realestateinvesting Wealth Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
   },
   {
