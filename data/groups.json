@@ -1,5 +1,24 @@
 [
   {
+    "id": "options-trading-wealth-hub-telegram-20261026-1",
+    "title": "Stock Market Movers & Watchlists",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "55,000+ members",
+    "description": "Pre-market gappers, earnings calendars, upgrade/downgrade tickers, and volume alerts.",
+    "joinUrl": "https://t.me/stockmarket",
+    "tags": [
+      "telegram",
+      "pre-market",
+      "watchlists",
+      "movers"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-26"
+  },
+  {
     "id": "options-trading-wealth-hub-telegram-20261025-1",
     "title": "Forex Technical Analysis & Key Levels",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-25"
   },
   {
