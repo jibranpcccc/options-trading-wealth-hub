@@ -1,5 +1,24 @@
 [
   {
+    "id": "reddit-optionscalping",
+    "title": "r/optionscalping Intraday Hub",
+    "platform": "Reddit",
+    "category": "Options Scalping",
+    "memberCount": "42,000+ members",
+    "description": "Intraday options trading, Order flow analysis, VWAP momentum, and rapid execution strategies.",
+    "joinUrl": "https://www.reddit.com/r/optionscalping/",
+    "tags": [
+      "optionscalping",
+      "scalping",
+      "vwap",
+      "daytrading"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "reddit-investing",
     "title": "r/investing Long-Term Wealth",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -1081,24 +1100,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "reddit-optionscalping",
-    "title": "r/optionscalping Intraday Hub",
-    "platform": "Reddit",
-    "category": "Options Scalping",
-    "memberCount": "42,000+ members",
-    "description": "Intraday options trading, Order flow analysis, VWAP momentum, and rapid execution strategies.",
-    "joinUrl": "https://www.reddit.com/r/optionscalping/",
-    "tags": [
-      "optionscalping",
-      "scalping",
-      "vwap",
-      "daytrading"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "reddit-daytrading",
