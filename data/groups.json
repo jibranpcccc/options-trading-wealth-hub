@@ -1,5 +1,24 @@
 [
   {
+    "id": "reddit-daytrading",
+    "title": "r/Daytrading Risk Management",
+    "platform": "Reddit",
+    "category": "Day Trading",
+    "memberCount": "2,800,000+ members",
+    "description": "Multi-market intraday trading community covering risk management, level 2 tape reading, and technical setups.",
+    "joinUrl": "https://www.reddit.com/r/Daytrading/",
+    "tags": [
+      "daytrading",
+      "risk-management",
+      "level2",
+      "technical-analysis"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "reddit-optionscalping",
     "title": "r/optionscalping Intraday Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -1102,24 +1121,6 @@
     "lastUpdated": "2026-09-13"
   },
   {
-    "id": "reddit-daytrading",
-    "title": "r/Daytrading Risk Management",
-    "platform": "Reddit",
-    "category": "Day Trading",
-    "memberCount": "2,800,000+ members",
-    "description": "Multi-market intraday trading community covering risk management, level 2 tape reading, and technical setups.",
-    "joinUrl": "https://www.reddit.com/r/Daytrading/",
-    "tags": [
-      "daytrading",
-      "risk-management",
-      "level2",
-      "technical-analysis"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
     "id": "reddit-algotrading",
     "title": "r/algotrading Systematic Models",
     "platform": "Reddit",
@@ -1348,24 +1349,6 @@
       "smallcap",
       "catalysts",
       "biotech"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "discord-daytrading",
-    "title": "Daytrading Mastermind Discord",
-    "platform": "Discord",
-    "category": "Day Trading",
-    "memberCount": "145,000+ members",
-    "description": "Live market open commentary, scalping watchlists, order flow breakdowns, and trade reviews.",
-    "joinUrl": "https://www.reddit.com/r/Daytrading/",
-    "tags": [
-      "daytrading",
-      "discord",
-      "scalping",
-      "orderflow"
     ],
     "verified": true,
     "featured": false,
